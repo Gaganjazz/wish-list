@@ -2,29 +2,43 @@
     <sys_ui_section caption="" section_id="8bc84e4d97b02110e7843d400153af0d" sys_domain="global" table="x_956661_wish_list_item" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>quantity</element>
-            <position>1</position>
+            <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-02 08:12:02</sys_created_on>
-            <sys_id>adc3560997f02110e7843d400153af38</sys_id>
+            <sys_created_on>2023-02-02 10:15:37</sys_created_on>
+            <sys_id>4c10ba8197742110e7843d400153afab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_956661_wish_list_item" sys_domain="global" view="Default view">8bc84e4d97b02110e7843d400153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-02 08:12:02</sys_updated_on>
+            <sys_updated_on>2023-02-02 10:15:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>url</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-02 08:13:19</sys_created_on>
-            <sys_id>2814de0997f02110e7843d400153af4f</sys_id>
+            <sys_created_on>2023-02-02 10:15:37</sys_created_on>
+            <sys_id>0410ba8197742110e7843d400153afac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_956661_wish_list_item" sys_domain="global" view="Default view">8bc84e4d97b02110e7843d400153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-02 08:13:19</sys_updated_on>
+            <sys_updated_on>2023-02-02 10:15:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-02 10:15:37</sys_created_on>
+            <sys_id>8410ba8197742110e7843d400153afac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_956661_wish_list_item" sys_domain="global" view="Default view">8bc84e4d97b02110e7843d400153af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-02 10:15:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
